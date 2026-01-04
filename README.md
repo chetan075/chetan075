@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am currently looking for web dev internships and this is Computer Science undergraduate with hands-on experience building full-stack web applications <br>using Node.js, Express, Next.js, and databases like MySQL and MongoDB. Comfortable working with <br>REST APIs, authentication, and deploying applications. Actively seeking a software development <br>internship to gain real-world engineering experience. 
+I am a Computer Science undergraduate with hands-on experience building full-stack web applications <br>using Node.js, Express, Next.js, and databases like MySQL and MongoDB. Comfortable working with <br>REST APIs, authentication, and deploying applications. Actively seeking a software development <br>internship to gain real-world engineering experience. 
 
 
 ## 🌐 Socials:
