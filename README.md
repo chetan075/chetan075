@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Computer Science undergraduate with hands-on experience building full-stack web applications <br>using Node.js, Express, Next.js, and databases like MySQL and MongoDB. Comfortable working with <br>REST APIs, authentication, and deploying applications. Actively seeking a software development <br>internship to gain real-world engineering experience. Alongside web development, I have a strong interest <br> in data analytics and have worked with Python, Pandas, NumPy, and Matplotlib to analyze real-world datasets and derive insights.
+I am a Computer Science undergraduate with hands-on experience building full-stack web applications <br>using Node.js, Express, Next.js, and databases like MySQL and MongoDB. Comfortable working with <br>REST APIs, authentication, and deploying applications. Actively seeking a software development <br>internship to gain real-world engineering experience. Alongside web development, I have a strong interest <br> in data analytics and have worked with Python, Pandas, NumPy, and Matplotlib to analyze <br>real-world datasets and derive insights.
 
 Actively seeking internship opportunities in Full Stack Development or Data Analytics.
 
